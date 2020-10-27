@@ -1,5 +1,4 @@
 # coding_projects
-Projects and Challenges completed during my coding studies
 
 via CodeCademy:
 
