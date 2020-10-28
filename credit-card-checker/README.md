@@ -1,4 +1,4 @@
-# coding_projects
+# Credit Card Checker / The Luhn Algorithm 
 
 This is just one of many intro JS  projects I completed as part of [CodeCademy's](https://www.codecademy.com) __*Full Stack Web Developer Career Path*__
 
