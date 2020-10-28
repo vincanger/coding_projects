@@ -1,6 +1,6 @@
 # coding_projects
 
-This is just one of many intro JS  projects I completed as part of CodeCademy's __*Full Stack Web Developer Career Path*__
+This is just one of many intro JS  projects I completed as part of [CodeCademy's](www.codecademy.com) __*Full Stack Web Developer Career Path*__
 
 
 ## //Project Goals// 🛹
