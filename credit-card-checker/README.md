@@ -41,7 +41,7 @@ function validateCred(arr) {
   let sum = newArray.reduce((acc, cv) => acc + cv);
   //console.log(newArray)
   //console.log(sum)
-  return sum % 10 === 0
+  return sum % 10 === 0;
   
-};
+}
 ```
