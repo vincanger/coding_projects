@@ -30,7 +30,7 @@ function validateCred(arr) {
     let x = arr[i]
     if ((arr.length-1 - i) % 2 === 1) {
       //console.log(i);
-      x *= 2
+      x *= 2;
       if (x > 9){
         x -= 9;
       }
