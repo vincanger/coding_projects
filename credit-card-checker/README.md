@@ -42,6 +42,5 @@ function validateCred(arr) {
   //console.log(newArray)
   //console.log(sum)
   return sum % 10 === 0;
-  
 }
 ```
