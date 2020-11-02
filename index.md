@@ -1,4 +1,3 @@
-# Coding Projects
 ----
 * [Credit Card Checker - The Luhn Algorithm in JS](credit-card-checker/README.md)
 * [Mixed Messages - A small, responsive JS site](mixed-messages/index.html)
