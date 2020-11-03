@@ -5,7 +5,7 @@ In the individual [READMEs](https://github.com/vincanger/coding_projects/), you 
 
 ----  
 
-[Mixed Messages](https://vincanger.github.io/coding_projects/mixed-messages) - A simple, small responsive JavaScript site hosted on GitHub Pages.  
+[Mixed Messages](https://vincanger.github.io/coding_projects/mixed-messages) - A small, simple, and responsive JavaScript site hosted on GitHub Pages.  
 [Credit Card Checker](https://github.com/vincanger/coding_projects/credit-card-checker) - Using the Luhn Algorithm to validate Credit Card Numbers with Javascript.  
 
 ----
