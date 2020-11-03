@@ -1,3 +1,5 @@
+----
+
 These are various projects I've created while completing my "Full-Stack Engineer Career Path" certification.  
 They are meant to exhibit skills gained in JavaScript, NodeJS, HTML5, CSS, Git, and GitHub Pages.
 
