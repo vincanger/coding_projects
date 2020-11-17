@@ -5,7 +5,6 @@ They are meant to exhibit skills gained in NodeJS, Express, React, and Git.
 + [Quote API](https://github.com/vincanger/coding_projects/tree/master/quote-api) - A simple NodeJS + Express API to serve front-end
 + [NodeJS "Find Your Hat" CLI Game](https://github.com/vincanger/coding_projects/tree/master/find-your-hat-game) - A simple game using Node and JavaScript Classes
 + [Mixed Messages](https://vincanger.github.io/coding_projects/mixed-messages) - A small, simple, and responsive JavaScript site hosted on GitHub Pages.  
-+ [Credit Card Checker](https://github.com/vincanger/coding_projects/tree/master/credit-card-checker) - Using the Luhn Algorithm to validate Credit Card Numbers with Javascript.  
 
 ----
 
